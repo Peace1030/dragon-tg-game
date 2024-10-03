@@ -5,7 +5,7 @@
 </p>
 <br></br>
 <p align="center">
-  <img src="https://github.com/whisperky/dragon-tg-game/blob/main/public/background/2.jpg" />
+  <img src="https://github.com/peace1030/dragon-tg-game/blob/main/public/background/2.jpg" />
 </p>
 
 # React + TypeScript + Vite
